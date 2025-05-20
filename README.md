@@ -1,1 +1,1 @@
-# blogApp-web
+# React + Vite
